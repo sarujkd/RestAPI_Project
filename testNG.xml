@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Multiple Suites">
+  
+  <suite-files>
+  <suite-file path="C:\Users\anand\Documents\Saru\GitSample\GitDemo\com.TekarchAPI\src\test\resources\smokeSuite.xml"></suite-file>
+  <suite-file path="C:\Users\anand\Documents\Saru\GitSample\GitDemo\com.TekarchAPI\src\test\resources\functionalSuite.xml"></suite-file>
+  </suite-files>
+</suite> <!--Multiple Suites -->

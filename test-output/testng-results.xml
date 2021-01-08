@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9981" started-at="2021-01-07T18:05:57 CST" finished-at="2021-01-07T18:06:07 CST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9981" started-at="2021-01-07T18:05:57 CST" finished-at="2021-01-07T18:06:07 CST">
+      <class name="com.Tests.get_ApiTest">
+        <test-method status="PASS" signature="login_Valid_Credentials_Test()[pri:0, instance:com.Tests.get_ApiTest@4c309d4d]" name="login_Valid_Credentials_Test" is-config="true" duration-ms="2945" started-at="2021-01-07T18:05:57 CST" finished-at="2021-01-07T18:06:00 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_Valid_Credentials_Test -->
+        <test-method status="PASS" signature="check_accountno_Test()[pri:0, instance:com.Tests.get_ApiTest@4c309d4d]" name="check_accountno_Test" duration-ms="3345" started-at="2021-01-07T18:06:00 CST" finished-at="2021-01-07T18:06:04 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_accountno_Test -->
+        <test-method status="PASS" signature="getMethod_Test()[pri:0, instance:com.Tests.get_ApiTest@4c309d4d]" name="getMethod_Test" duration-ms="2093" started-at="2021-01-07T18:06:04 CST" finished-at="2021-01-07T18:06:06 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod_Test -->
+        <test-method status="PASS" signature="getSalary_Test()[pri:0, instance:com.Tests.get_ApiTest@4c309d4d]" name="getSalary_Test" duration-ms="1563" started-at="2021-01-07T18:06:06 CST" finished-at="2021-01-07T18:06:07 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSalary_Test -->
+      </class> <!-- com.Tests.get_ApiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

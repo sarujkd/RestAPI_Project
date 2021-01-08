@@ -1,0 +1,78 @@
+[INFO ] 2021-01-06 20:06:11.394 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-06 20:06:11.398 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-06 20:06:11.407 [main] testBase - Response body is displayed
+[INFO ] 2021-01-06 20:06:11.987 [main] testBase - Extracted the token
+[INFO ] 2021-01-06 20:06:12.159 [main] LoginApiTest - login_With_Invalid_Method__Test is started
+[INFO ] 2021-01-06 20:06:12.162 [main] LoginApiTest - Response code 403 is displayed
+[INFO ] 2021-01-06 20:06:12.162 [main] LoginApiTest - Response body is displayed
+[INFO ] 2021-01-06 20:06:12.162 [main] LoginApiTest - login_With_Invalid_Method__Test is passed
+[INFO ] 2021-01-06 20:06:12.417 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-06 20:06:12.417 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-06 20:06:12.418 [main] testBase - Response body is displayed
+[INFO ] 2021-01-06 20:06:12.430 [main] testBase - Extracted the token
+[INFO ] 2021-01-06 20:06:15.470 [main] get_ApiTest - 
+getMethod_Test is started
+[INFO ] 2021-01-06 20:06:15.534 [main] get_ApiTest - 
+Response code 200 is displayed
+[INFO ] 2021-01-06 20:06:15.535 [main] get_ApiTest - 
+getMethod_Test is passed
+[INFO ] 2021-01-06 20:46:32.044 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-06 20:46:32.052 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-06 20:46:32.064 [main] testBase - Response body is displayed
+[INFO ] 2021-01-06 20:46:32.674 [main] testBase - Extracted the token
+[INFO ] 2021-01-06 20:46:35.443 [main] get_ApiTest - getMethod_Test is started
+[INFO ] 2021-01-06 20:46:35.501 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-06 20:46:35.501 [main] get_ApiTest - getMethod_Test is passed
+[INFO ] 2021-01-06 20:46:52.763 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-06 20:46:52.768 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-06 20:46:52.776 [main] testBase - Response body is displayed
+[INFO ] 2021-01-06 20:46:53.369 [main] testBase - Extracted the token
+[INFO ] 2021-01-06 20:46:53.553 [main] LoginApiTest - login_With_Invalid_Method__Test is started
+[INFO ] 2021-01-06 20:46:53.559 [main] LoginApiTest - Response code 403 is displayed
+[INFO ] 2021-01-06 20:46:53.559 [main] LoginApiTest - Response body is displayed
+[INFO ] 2021-01-06 20:46:53.559 [main] LoginApiTest - login_With_Invalid_Method__Test is passed
+[INFO ] 2021-01-06 20:47:14.268 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-06 20:47:14.273 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-06 20:47:14.280 [main] testBase - Response body is displayed
+[INFO ] 2021-01-06 20:47:14.891 [main] testBase - Extracted the token
+[INFO ] 2021-01-06 20:47:15.070 [main] LoginApiTest - login_With_Invalid_Method__Test is started
+[INFO ] 2021-01-06 20:47:15.072 [main] LoginApiTest - Response code 403 is displayed
+[INFO ] 2021-01-06 20:47:15.075 [main] LoginApiTest - Response body is displayed
+[INFO ] 2021-01-06 20:47:15.075 [main] LoginApiTest - login_With_Invalid_Method__Test is passed
+[INFO ] 2021-01-06 20:47:15.316 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-06 20:47:15.317 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-06 20:47:15.317 [main] testBase - Response body is displayed
+[INFO ] 2021-01-06 20:47:15.330 [main] testBase - Extracted the token
+[INFO ] 2021-01-06 20:47:18.673 [main] get_ApiTest - getMethod_Test is started
+[INFO ] 2021-01-06 20:47:18.823 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-06 20:47:18.823 [main] get_ApiTest - getMethod_Test is passed
+[INFO ] 2021-01-06 20:50:19.225 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-06 20:50:19.233 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-06 20:50:19.244 [main] testBase - Response body is displayed
+[INFO ] 2021-01-06 20:50:19.840 [main] testBase - Extracted the token
+[INFO ] 2021-01-06 20:50:20.067 [main] LoginApiTest - login_With_Invalid_Method__Test is started
+[INFO ] 2021-01-06 20:50:20.070 [main] LoginApiTest - Response code 403 is displayed
+[INFO ] 2021-01-06 20:50:20.071 [main] LoginApiTest - Response body is displayed
+[INFO ] 2021-01-06 20:50:20.071 [main] LoginApiTest - login_With_Invalid_Method__Test is passed
+[INFO ] 2021-01-06 20:50:20.312 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-06 20:50:20.312 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-06 20:50:20.312 [main] testBase - Response body is displayed
+[INFO ] 2021-01-06 20:50:20.325 [main] testBase - Extracted the token
+[INFO ] 2021-01-06 20:50:23.077 [main] get_ApiTest - getMethod_Test is started
+[INFO ] 2021-01-06 20:50:23.133 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-06 20:50:23.134 [main] get_ApiTest - getMethod_Test is passed
+[INFO ] 2021-01-06 20:55:25.305 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-06 20:55:25.311 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-06 20:55:25.321 [main] testBase - Response body is displayed
+[INFO ] 2021-01-06 20:55:25.880 [main] testBase - Extracted the token
+[INFO ] 2021-01-06 20:55:26.070 [main] LoginApiTest - login_With_Invalid_Method__Test is started
+[INFO ] 2021-01-06 20:55:26.072 [main] LoginApiTest - Response code 403 is displayed
+[INFO ] 2021-01-06 20:55:26.072 [main] LoginApiTest - Response body is displayed
+[INFO ] 2021-01-06 20:55:26.072 [main] LoginApiTest - login_With_Invalid_Method__Test is passed
+[INFO ] 2021-01-06 20:55:26.309 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-06 20:55:26.309 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-06 20:55:26.310 [main] testBase - Response body is displayed
+[INFO ] 2021-01-06 20:55:26.322 [main] testBase - Extracted the token
+[INFO ] 2021-01-06 20:55:28.676 [main] get_ApiTest - getMethod_Test is started
+[INFO ] 2021-01-06 20:55:28.736 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-06 20:55:28.736 [main] get_ApiTest - getMethod_Test is passed

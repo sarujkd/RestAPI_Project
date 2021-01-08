@@ -1,0 +1,371 @@
+[INFO ] 2021-01-07 16:42:10.409 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 16:42:10.416 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 16:42:10.426 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 16:42:11.094 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 16:42:11.275 [main] LoginApiTest - login_With_Invalid_Method__Test is started
+[INFO ] 2021-01-07 16:42:11.278 [main] LoginApiTest - Response code 403 is displayed
+[INFO ] 2021-01-07 16:42:11.278 [main] LoginApiTest - Response body is displayed
+[INFO ] 2021-01-07 16:42:11.279 [main] LoginApiTest - login_With_Invalid_Method__Test is passed
+[INFO ] 2021-01-07 16:42:11.801 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 16:42:11.801 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 16:42:11.802 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 16:42:11.813 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 16:42:13.499 [main] get_ApiTest - getMethod_Test is started
+[INFO ] 2021-01-07 16:42:13.567 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 16:42:13.567 [main] get_ApiTest - getMethod_Test is passed
+[INFO ] 2021-01-07 16:54:11.245 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 16:54:11.253 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 16:54:11.264 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 16:54:11.939 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 16:54:13.994 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 16:54:13.994 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 16:54:14.214 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 16:56:42.582 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 16:56:42.589 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 16:56:42.598 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 16:56:43.283 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 16:56:44.837 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 16:56:44.837 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 16:56:45.159 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 16:58:12.242 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 16:58:12.247 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 16:58:12.255 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 16:58:12.938 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 16:58:14.229 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 16:58:14.229 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 16:58:14.535 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 16:58:47.658 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 16:58:47.663 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 16:58:47.672 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 16:58:48.361 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 16:58:49.765 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 16:58:49.766 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 16:58:50.126 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:05:13.041 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:05:13.047 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:05:13.055 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:05:13.720 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:05:15.197 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:05:15.198 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:05:15.548 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:06:12.326 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:06:12.331 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:06:12.339 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:06:13.042 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:06:14.798 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:06:14.799 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:06:57.884 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:06:57.892 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:06:57.904 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:06:58.631 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:07:00.060 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:07:00.060 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:07:00.444 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:08:17.860 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:08:17.866 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:08:17.874 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:08:18.550 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:08:21.571 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:08:21.571 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:09:35.450 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:09:35.455 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:09:35.464 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:09:36.183 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:09:38.269 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:09:38.269 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:09:38.722 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:11:33.855 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:11:33.860 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:11:33.869 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:11:34.702 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:11:36.233 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:11:36.233 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:11:36.554 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:13:23.108 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:13:23.113 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:13:23.121 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:13:23.781 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:13:25.803 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:13:25.804 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:13:26.220 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:14:07.446 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:14:07.452 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:14:07.461 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:14:08.157 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:14:09.628 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:14:09.628 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:16:49.348 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:16:49.354 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:16:49.366 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:16:50.045 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:16:51.424 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:16:51.424 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:17:46.237 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:17:46.245 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:17:46.256 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:17:46.947 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:17:48.367 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:17:48.367 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:19:19.265 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:19:19.271 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:19:19.278 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:19:19.952 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:19:21.343 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:19:21.343 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:21:57.991 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:21:57.997 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:21:58.010 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:21:58.728 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:22:00.476 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:22:00.477 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:22:00.817 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:22:00.817 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:25:20.359 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:25:20.364 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:25:20.373 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:25:21.017 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:25:22.513 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:25:22.514 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:25:22.938 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:25:22.938 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:26:05.578 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:26:05.585 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:26:05.596 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:26:06.388 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:26:07.561 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:26:07.561 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:26:07.936 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:26:07.936 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:26:08.165 [main] get_ApiTest - putMethod_Test is started
+[INFO ] 2021-01-07 17:26:08.165 [main] get_ApiTest - Response code 400 is displayed
+[INFO ] 2021-01-07 17:27:58.329 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:27:58.334 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:27:58.342 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:27:59.042 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:28:00.313 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:28:00.313 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:28:00.610 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:28:00.611 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:28:00.838 [main] get_ApiTest - putMethod_Test is started
+[INFO ] 2021-01-07 17:28:00.839 [main] get_ApiTest - Response code 400 is displayed
+[INFO ] 2021-01-07 17:28:00.839 [main] get_ApiTest - putMethod_Test is passed
+[INFO ] 2021-01-07 17:29:00.153 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:29:00.157 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:29:00.166 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:29:00.849 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:29:02.162 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:29:02.162 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:29:02.473 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:29:02.473 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:29:02.626 [main] get_ApiTest - putMethod_Test is started
+[INFO ] 2021-01-07 17:29:02.631 [main] get_ApiTest - Response code 400 is displayed
+[INFO ] 2021-01-07 17:29:02.631 [main] get_ApiTest - putMethod_Test is passed
+[INFO ] 2021-01-07 17:30:19.695 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:30:19.707 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:30:19.727 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:30:20.516 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:30:21.726 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:30:21.726 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:30:22.010 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:30:22.010 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:30:22.134 [main] get_ApiTest - putMethod_Test is started
+[INFO ] 2021-01-07 17:30:22.136 [main] get_ApiTest - Response code 400 is displayed
+[INFO ] 2021-01-07 17:30:22.136 [main] get_ApiTest - putMethod_Test is passed
+[INFO ] 2021-01-07 17:31:22.545 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:31:22.550 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:31:22.558 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:31:23.256 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:31:24.604 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:31:24.604 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:31:24.949 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:31:24.950 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:32:28.481 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:32:28.497 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:32:28.531 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:32:29.274 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:32:32.185 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:32:32.186 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:32:32.505 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:32:32.506 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:32:53.698 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:32:53.724 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:32:53.746 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:32:54.558 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:32:56.657 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:32:56.657 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:32:56.974 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:32:56.975 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:32:57.101 [main] get_ApiTest - putMethod_Test is started
+[INFO ] 2021-01-07 17:32:57.102 [main] get_ApiTest - Response code 400 is displayed
+[INFO ] 2021-01-07 17:32:57.102 [main] get_ApiTest - putMethod_Test is passed
+[INFO ] 2021-01-07 17:34:26.317 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:34:26.322 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:34:26.330 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:34:26.995 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:34:29.433 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:34:29.434 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:34:29.712 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:34:29.713 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:34:29.841 [main] get_ApiTest - putMethod_Test is started
+[INFO ] 2021-01-07 17:34:29.842 [main] get_ApiTest - Response code 400 is displayed
+[INFO ] 2021-01-07 17:34:29.843 [main] get_ApiTest - putMethod_Test is passed
+[INFO ] 2021-01-07 17:35:49.389 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:35:49.394 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:35:49.402 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:35:50.101 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:35:51.969 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:35:51.970 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:35:52.271 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:35:52.271 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:35:52.496 [main] get_ApiTest - putMethod_Test is started
+[INFO ] 2021-01-07 17:35:52.496 [main] get_ApiTest - Response code 400 is displayed
+[INFO ] 2021-01-07 17:35:52.497 [main] get_ApiTest - putMethod_Test is passed
+[INFO ] 2021-01-07 17:36:23.050 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:36:23.055 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:36:23.063 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:36:23.891 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:36:25.452 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:36:25.453 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:36:25.741 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:36:25.741 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:36:25.892 [main] get_ApiTest - putMethod_Test is started
+[INFO ] 2021-01-07 17:36:25.892 [main] get_ApiTest - Response code 302 is displayed
+[INFO ] 2021-01-07 17:36:25.892 [main] get_ApiTest - putMethod_Test is passed
+[INFO ] 2021-01-07 17:37:10.507 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:37:10.514 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:37:10.524 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:37:11.169 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:37:12.966 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 17:37:12.966 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:37:13.409 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 17:37:13.409 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 17:37:13.680 [main] get_ApiTest - putMethod_Test is started
+[INFO ] 2021-01-07 17:37:13.680 [main] get_ApiTest - Response code 302 is displayed
+[INFO ] 2021-01-07 17:37:13.680 [main] get_ApiTest - putMethod_Test is passed
+[INFO ] 2021-01-07 17:38:24.010 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:38:24.018 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:38:24.030 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:38:24.699 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:38:24.921 [main] get_ApiTest - putMethod_Test is started
+[INFO ] 2021-01-07 17:38:24.922 [main] get_ApiTest - Response code 302 is displayed
+[INFO ] 2021-01-07 17:38:24.922 [main] get_ApiTest - putMethod_Test is passed
+[INFO ] 2021-01-07 17:43:44.009 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:43:44.014 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:43:44.026 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:43:44.685 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:43:46.397 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 17:43:46.397 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:44:39.954 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:44:39.963 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:44:39.977 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:44:40.783 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:44:42.099 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 17:44:42.100 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:45:37.643 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:45:37.648 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:45:37.656 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:45:38.317 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:45:39.545 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 17:45:39.545 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:46:50.964 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:46:50.969 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:46:50.978 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:46:51.701 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:46:52.966 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 17:46:52.967 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:51:37.632 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:51:37.637 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:51:37.645 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:51:38.309 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:51:39.790 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 17:51:39.791 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:53:22.504 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:53:22.510 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:53:22.519 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:53:23.203 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:53:24.562 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 17:53:24.563 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:53:25.003 [main] get_ApiTest - getSalary_Test is passed
+[INFO ] 2021-01-07 17:53:41.052 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:53:41.059 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:53:41.076 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:53:41.870 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:53:43.187 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 17:53:43.187 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:53:43.475 [main] get_ApiTest - getSalary_Test is passed
+[INFO ] 2021-01-07 17:58:40.295 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:58:40.300 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:58:40.309 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:58:40.992 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:58:42.301 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 17:58:42.301 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 17:59:02.981 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 17:59:02.987 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 17:59:02.996 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 17:59:03.652 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 17:59:05.238 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 17:59:05.238 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:03:09.726 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 18:03:09.731 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 18:03:09.742 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 18:03:10.541 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 18:03:12.125 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 18:03:12.126 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:03:12.527 [main] get_ApiTest - getSalary_Test is passed
+[INFO ] 2021-01-07 18:03:37.063 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 18:03:37.068 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 18:03:37.079 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 18:03:37.841 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 18:03:39.161 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 18:03:39.161 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:03:39.589 [main] get_ApiTest - getSalary_Test is passed
+[INFO ] 2021-01-07 18:05:04.428 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 18:05:04.433 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 18:05:04.441 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 18:05:05.166 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 18:05:06.413 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 18:05:06.414 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:05:06.775 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 18:05:06.775 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 18:05:07.836 [main] get_ApiTest - getMethod_Test is started
+[INFO ] 2021-01-07 18:05:08.009 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:05:08.010 [main] get_ApiTest - getMethod_Test is passed
+[INFO ] 2021-01-07 18:05:09.450 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 18:05:09.450 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:05:09.621 [main] get_ApiTest - getSalary_Test is passed
+[INFO ] 2021-01-07 18:05:59.939 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 18:05:59.944 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 18:05:59.953 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 18:06:00.774 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 18:06:03.747 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 18:06:03.747 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:06:04.133 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 18:06:04.133 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 18:06:06.102 [main] get_ApiTest - getMethod_Test is started
+[INFO ] 2021-01-07 18:06:06.229 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:06:06.230 [main] get_ApiTest - getMethod_Test is passed
+[INFO ] 2021-01-07 18:06:07.792 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 18:06:07.793 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:06:07.794 [main] get_ApiTest - getSalary_Test is passed
+[INFO ] 2021-01-07 18:07:45.524 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 18:07:45.530 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 18:07:45.538 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 18:07:46.185 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 18:07:46.360 [main] LoginApiTest - login_With_Invalid_Method__Test is started
+[INFO ] 2021-01-07 18:07:46.361 [main] LoginApiTest - Response code 403 is displayed
+[INFO ] 2021-01-07 18:07:46.362 [main] LoginApiTest - Response body is displayed
+[INFO ] 2021-01-07 18:07:46.362 [main] LoginApiTest - login_With_Invalid_Method__Test is passed
+[INFO ] 2021-01-07 18:07:46.613 [main] testBase - login_Valid_Credentials_Test is started
+[INFO ] 2021-01-07 18:07:46.613 [main] testBase - Valid Response code 201 is displayed
+[INFO ] 2021-01-07 18:07:46.614 [main] testBase - Response body is displayed
+[INFO ] 2021-01-07 18:07:46.632 [main] testBase - Extracted the token
+[INFO ] 2021-01-07 18:07:48.298 [main] get_ApiTest - getMethod_Test is started
+[INFO ] 2021-01-07 18:07:48.381 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:07:48.382 [main] get_ApiTest - getMethod_Test is passed
+[INFO ] 2021-01-07 18:07:49.528 [main] get_ApiTest - get_accountsList_Test is started
+[INFO ] 2021-01-07 18:07:49.529 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:07:50.025 [main] get_ApiTest - 90909090 is present
+[INFO ] 2021-01-07 18:07:50.026 [main] get_ApiTest - get_accountsList_Test is passed
+[INFO ] 2021-01-07 18:07:51.529 [main] get_ApiTest - getSalary_Test is started
+[INFO ] 2021-01-07 18:07:51.530 [main] get_ApiTest - Response code 200 is displayed
+[INFO ] 2021-01-07 18:07:51.530 [main] get_ApiTest - getSalary_Test is passed
