@@ -1,0 +1,113 @@
+{
+"Car":[
+  
+   {
+     "make": "BMW",
+	  "model": "A8",
+     "vin": "09AGHY64352JITEG98K",
+     "metadata" : {
+         "Color" : "Blue",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 140.0,
+         "Discount" : 12.0
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 1190.76,
+         "depreciation": 2256.54,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 214
+             }
+         }
+   },
+ 
+  {
+     "make": "Tesla",
+	  "model": "A6",
+     "vin": "09AGHY64352JITEG98T",
+     "metadata" : {
+         "Color" : "Blue",
+         "Notes" : "change the wheel of the car"
+         },
+     "perdayrent" : {
+        "Price" : 240.0,
+         "Discount" : 15.0
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2190.76,
+         "depreciation": 2356.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 2546
+             }
+         }
+         
+},
+ {
+     "make": "Audi",
+	  "model": "A7",
+     "vin": "09AGHY64352JITEG99A",
+     "metadata" : {
+         "Color" : "Black",
+         "Notes" : "Scratches on the front side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 340.0,
+         "Discount" : 15.0
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2120.76,
+         "depreciation": 2056.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+   },
+  {
+     "make": "Tesla",
+	  "model": "B7",
+     "vin": "09AGHY64352JITEG98G",
+     "metadata" : {
+         "Color" : "Blue",
+         "Notes" : "broken on the reae side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 160.0,
+         "Discount" : 10.0
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2110.76,
+         "depreciation": 2250.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 221
+             }
+         }
+   },
+   {
+     "make": "Tesla",
+	  "model": "U7",
+     "vin": "09AGHY64352JITEG95C",
+     "metadata" : {
+         "Color" : "Blue",
+         "Notes" : "broken on the reae side of the car"
+         },
+     "perdayrent" : {
+        "Price" : 190.0,
+         "Discount" : 10.0
+         },
+     "metrics" : {
+         "yoymaintenancecost" : 2000.76,
+         "depreciation": 2200.43,
+         "rentalcount" : {
+             "lastweek" : 4,
+             "yeartodate" : 200
+             }
+         }
+   }
+  
+]
+}
